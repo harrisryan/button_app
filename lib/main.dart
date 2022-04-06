@@ -34,7 +34,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Fuck Bitches Get Money',
+          'Fuck Bitches Get Honey',
         ),
       ),
     );
